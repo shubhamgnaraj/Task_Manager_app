@@ -1,0 +1,19 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-box {
+  border-top-left-radius: 1vh;
+  border-bottom-left-radius: 1vh;
+  
+}
+
+.add-btn {
+  border-top-right-radius: 1vh;
+  border-bottom-right-radius: 1vh;
+}
+
+.min-width-btn{
+  min-width: 20%;
+}
