@@ -12,7 +12,7 @@ function Task() {
     inputOf ? addTask(inputOf) : alert("Please Enter Some Task Then Add");
   };
   return (
-    <div className=" flex items-center p-2 w-full ">
+    <div className=" flex items-center p-2 w-full">
       <input
         type="text"
         placeholder="Enter your task "
